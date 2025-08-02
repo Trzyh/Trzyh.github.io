@@ -22,7 +22,7 @@ repository               : "Trzyh/Trzyh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/Profile.jpg"
+  avatar           : "/images/profile.png"
   name             : "Ph.D. at Concordia"
   bio              : "yiheng.zhao@mail.concordia.ca"
   location         : "Montreal"
